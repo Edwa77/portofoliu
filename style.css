@@ -1,0 +1,52 @@
+h1,h2 {
+
+color: red;
+
+}
+
+table  
+{
+border: inset;
+}
+td, th
+{
+border-style: inset;
+}
+
+
+.text-center
+{
+
+text-align: center;
+}
+
+.smt
+{
+
+margin-left: 740;
+
+}
+
+
+#rounded-img
+
+{
+border: 10px solid green;
+
+border-radius:900px;
+
+}
+
+body
+{
+background-image: url("images/15505780.png");
+}
+
+
+tr,p {color: cyan;
+text-decoration-line: overline;}
+td,h4 {color: lavender;}
+br {color: white;}
+li {color: yellow;
+}
+h3 {color: #ffc2c2;}
