@@ -1,0 +1,47 @@
+h1,h2 {
+	color: yellow;
+	font-family: papyrus;
+	font-size: 30;
+}
+h3 {
+	color: green;
+	font-family: papyrus;
+	font-size: 20;
+	margin-left: 570
+}
+h5 {
+	font-size: 20;
+	color: 
+}
+
+h4 {
+	font-size: 25;
+	font-family: calibri;
+}
+
+table  {
+	border: 2px solid teal;
+	border-radius: 10px
+	background-color: brown;
+}
+
+td,th {
+	border:2px solid teal;
+	
+}
+
+.text-center {
+	text-align: center;
+}
+
+
+#rounded-img {
+	border-radius: 150px;
+	margin-left: 640px;
+	margin-top: 200px;
+}
+
+body {
+	background-color: coral;
+	background-image: url("images/patrick_house.webp");
+}
